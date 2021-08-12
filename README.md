@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi There 👋
+I'm ziro :)
 
-<!--
-**ziroau/ziroau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I currently work as a Computer Systems Technician.
+- 🔭 I’m currently working on a few small projects, such as Minecraft mods.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, C#
+- 🎮 I play a lot of video games!
 
-Here are some ideas to get you started:
+- 📫 How to reach me:
+  - Discord: `ziro#1234`
+  - Twitter: `@ziroAU`
+  - Steam: `id/ziroau/`
+  - Email: `hudson@ziroau.com`
+  - Website: `www.ziroau.com`
+  - YouTube: `youtube.com/c/ziroau`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
